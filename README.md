@@ -6,6 +6,8 @@ CLI Node.js app that filters a data set of Countries, People, and Animals by a p
 
 ## Usage
 
+- npm install
+
 ```bash
 - node app/app.js --filter=ry
 
